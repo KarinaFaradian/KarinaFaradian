@@ -16,7 +16,7 @@
 <img src="./icons/eslint.svg" height="40" width="40"/>,
 <img src="./icons/prettier.svg" height="40" width="40"/>
 for keeping code DRY and KISS.</p>
-</p>Development, assembly and tracking with
+<p>Development, assembly and tracking with
 <img src="./icons/webpack.svg" height="40" width="40"/>,
 <img src="./icons/babel.svg" height="40" width="40"/>,
 <img src="./icons/github.svg" height="40" width="40"/>,
