@@ -30,6 +30,7 @@ for maintaining Agile and Scrum methodology.</p>
 <h3 align="center">My contacts are below.</h3>
 <p>
 <ul>
-<li>Telegram: <a href="https://t.me/krn_frdn"> @krn_frdn</a></li>
+<li>Telegram: <a href="https://t.me/krn_frdn">@krn_frdn</a></li>
 <li>Email: <a href="mailto:faradiankarina@gmail.com">faradiankarina@gmail.com</a></li>
+<li>Linkedin: <a href ="www.linkedin.com/in/karina-faradian">Karina Faradian</a></li>
 </ul>
